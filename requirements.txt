@@ -1,0 +1,7 @@
+Flask
+pandas
+matplotlib
+seaborn
+reportlab
+Werkzeug
+openpyxl
